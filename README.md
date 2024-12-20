@@ -1,0 +1,1 @@
+# React-Sliderjs-with-magnification
